@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish Galat</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align>="right"alt="coding"width="400" src="https://tenor.com/view/coding-gif-24297652">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niti007&label=Profile%20views&color=0e75b6&style=flat" alt="niti007" /> </p>
