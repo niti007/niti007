@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-galat/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niti007)
-[![PredictX](https://img.shields.io/badge/PredictX-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)](https://www.predictx.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=niti007&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/niti007)
 
 > ⚡ *Ship fast. Evaluate hard. Iterate harder.* ⚡
