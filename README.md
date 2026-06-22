@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/90565444?v=4" width="150" style="border-radius:50%;" alt="Nitish Galat"/>
 
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-**Forward Deployed AI Engineer at [PredictX](https://www.predictx.com) · London 🇬🇧**
+**Forward Deployed AI Engineer · London 🇬🇧**
 
 - 🚀 I embed with teams, scope real problems, and ship AI solutions end-to-end
 - 🧠 Building production multi-agent systems — LangGraph orchestration, RAG pipelines, Knowledge Graph retrieval
