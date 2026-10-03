@@ -63,14 +63,67 @@
 
 ## 🚀 Featured Projects
 
+### ⭐ Flagship
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 [Enterprise Knowledge Assistant](https://github.com/niti007/knowledge-graph-version-2)
+
+*Hybrid vector + knowledge-graph RAG with a guarded LangGraph agent — measured, load-tested and live on Hugging Face.*
+
+- 📈 Hybrid + re-rank lifts context precision **0.81 → 0.90**
+- 🛡️ NeMo Guardrails, **0 of 46** emails leaked in PII tests
+- 💸 **$0.0038** per answer · **473** tests
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" alt="Qdrant"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Langfuse-FF6B35?style=flat-square&logoColor=white" alt="Langfuse"/>
+
+[**Repo**](https://github.com/niti007/knowledge-graph-version-2) · [**Live demo ↗**](https://nitishgalat-enterprise-knowledge-assistant.hf.space)
+
+</td>
+<td width="50%" valign="top">
+
+#### ✉️ [Hyper-Targeted Cold Outreach Crew](https://github.com/niti007/hyper-targeted-cold-outreach-crew)
+
+*Three CrewAI agents that research a real prospect, match their pain to an offering, and write a 3-sentence email grounded in live web evidence.*
+
+- 🔎 Scout → Strategist → Copywriter, typed with **Pydantic** handoffs
+- 🧾 Every claim backed by ≥2 cited quotes and URLs
+- 🎛️ B2B and B2C modes · Streamlit UI + CLI · ~**$0.05–0.40** a run
+
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logoColor=white" alt="CrewAI"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/> <img src="https://img.shields.io/badge/Serper-4285F4?style=flat-square&logoColor=white" alt="Serper"/> <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square&logoColor=white" alt="OpenRouter"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
+[**Repo**](https://github.com/niti007/hyper-targeted-cold-outreach-crew)
+
+</td>
+</tr>
+</table>
+
+### 🤖 Agents & Retrieval
+
 <div align="center">
 
-[![LangGraph Agent](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=langgraph-customer-support-agent&theme=github_dark&hide_border=true)](https://github.com/niti007/langgraph-customer-support-agent)
-[![Knowledge Graph RAG](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=knowledge-graph-RAG-practical&theme=github_dark&hide_border=true)](https://github.com/niti007/knowledge-graph-RAG-practical)
-[![LLM Eval Lab](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=llm-eval-lab&theme=github_dark&hide_border=true)](https://github.com/niti007/llm-eval-lab)
-[![LangFuse Lab](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=langfuse-tracing-lab&theme=github_dark&hide_border=true)](https://github.com/niti007/langfuse-tracing-lab)
-[![Guardrail Agent](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=Guardrail-Agent&theme=github_dark&hide_border=true)](https://github.com/niti007/Guardrail-Agent)
-[![AI Mock Interview](https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=AI-Mock-Interview_&theme=github_dark&hide_border=true)](https://github.com/niti007/AI-Mock-Interview_)
+<a href="https://github.com/niti007/langgraph-customer-support-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=langgraph-customer-support-agent&theme=github_dark&hide_border=true" alt="langgraph-customer-support-agent"/></a>
+<a href="https://github.com/niti007/knowledge-graph-RAG-practical"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=knowledge-graph-RAG-practical&theme=github_dark&hide_border=true" alt="knowledge-graph-RAG-practical"/></a>
+
+</div>
+
+### 🔭 Evals, Observability & Safety
+
+<div align="center">
+
+<a href="https://github.com/niti007/llm-eval-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=llm-eval-lab&theme=github_dark&hide_border=true" alt="llm-eval-lab"/></a>
+<a href="https://github.com/niti007/langfuse-tracing-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=langfuse-tracing-lab&theme=github_dark&hide_border=true" alt="langfuse-tracing-lab"/></a>
+<a href="https://github.com/niti007/Guardrail-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=Guardrail-Agent&theme=github_dark&hide_border=true" alt="Guardrail-Agent"/></a>
+
+</div>
+
+### 🎯 Apps
+
+<div align="center">
+
+<a href="https://github.com/niti007/AI-Mock-Interview_"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niti007&repo=AI-Mock-Interview_&theme=github_dark&hide_border=true" alt="AI-Mock-Interview_"/></a>
 
 </div>
 
