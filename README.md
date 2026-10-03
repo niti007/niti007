@@ -1,10 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/90565444?v=4" width="150" style="border-radius:50%;" alt="Nitish Galat"/>
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Hi+there%2C+I'm+Nitish+%F0%9F%91%8B;Forward+Deployed+AI+Engineer+%7C+London+%F0%9F%87%AC%F0%9F%87%A7;LangGraph+%C2%B7+RAG+%C2%B7+LangFuse+%C2%B7+FastAPI+%C2%B7+Cloud" alt="Typing SVG" />
-</h1>
+<img src="assets/hero.svg" alt="Nitish Galat — Forward Deployed AI Engineer" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-galat/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niti007)
@@ -88,6 +84,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niti007&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=niti007&theme=github-dark-blue&hide_border=true" />
+
+<img src="assets/activity-radar.svg" alt="Activity overview" width="360" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=niti007&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4" />
 
