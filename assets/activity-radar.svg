@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 340" width="460" height="340" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14">
+<title>Activity overview for niti007</title>
+<style>.pct{fill:#24292f}.lbl{fill:#57606a}@media (prefers-color-scheme:dark){.pct{fill:#e6edf3}.lbl{fill:#8b949e}}</style>
+<line x1="230" y1="160" x2="230.0" y2="50.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
+<line x1="230" y1="160" x2="340.0" y2="160.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
+<line x1="230" y1="160" x2="230.0" y2="270.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
+<line x1="230" y1="160" x2="120.0" y2="160.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
+<polygon points="230.0,156.7 233.3,160.0 230.0,186.5 120.0,160.0" fill="#3fb950" fill-opacity=".35"/>
+<circle cx="230.0" cy="156.7" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
+<circle cx="233.3" cy="160.0" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
+<circle cx="230.0" cy="186.5" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
+<circle cx="120.0" cy="160.0" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
+<text class="pct" x="230" y="30" text-anchor="middle">1%</text>
+<text class="lbl" x="230" y="48" text-anchor="middle">Code review</text>
+<text class="pct" x="416" y="154" text-anchor="middle">1%</text>
+<text class="lbl" x="416" y="172" text-anchor="middle">Issues</text>
+<text class="pct" x="230" y="306" text-anchor="middle">19%</text>
+<text class="lbl" x="230" y="324" text-anchor="middle">Pull requests</text>
+<text class="pct" x="44" y="154" text-anchor="middle">79%</text>
+<text class="lbl" x="44" y="172" text-anchor="middle">Commits</text>
+</svg>
