@@ -5,10 +5,10 @@
 <line x1="230" y1="160" x2="340.0" y2="160.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
 <line x1="230" y1="160" x2="230.0" y2="270.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
 <line x1="230" y1="160" x2="120.0" y2="160.0" stroke="#3fb950" stroke-width="2" opacity=".8"/>
-<polygon points="230.0,156.7 233.3,160.0 230.0,166.2 120.0,160.0" fill="#3fb950" fill-opacity=".35"/>
+<polygon points="230.0,156.7 233.3,160.0 230.0,166.1 120.0,160.0" fill="#3fb950" fill-opacity=".35"/>
 <circle cx="230.0" cy="156.7" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
 <circle cx="233.3" cy="160.0" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
-<circle cx="230.0" cy="166.2" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
+<circle cx="230.0" cy="166.1" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
 <circle cx="120.0" cy="160.0" r="4.5" fill="#fff" stroke="#3fb950" stroke-width="2"/>
 <text class="pct" x="230" y="30" text-anchor="middle">0%</text>
 <text class="lbl" x="230" y="48" text-anchor="middle">Code review</text>
